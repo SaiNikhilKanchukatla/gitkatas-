@@ -1,1 +1,4 @@
 *.s
+*.txt
+!newfile2.txt
+
